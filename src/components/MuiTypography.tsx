@@ -10,6 +10,9 @@ export const MuiTypography = () => {
         <Typography variant='h4'> H4 Heading.</Typography>
         <Typography variant='h5'> H5 Heading.</Typography>
         <Typography variant='h6'> H6 Heading.</Typography>
+
+        <Typography variant='subtitle1'> Sub Title 1.</Typography>
+        <Typography variant='subtitle2'> Sub Title 2.</Typography>
     </div>
   )
 }
